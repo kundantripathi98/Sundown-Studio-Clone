@@ -1,5 +1,6 @@
 /* If the cube is directly inside the container:
 
+
 #container:hover > #cube { background-color: yellow; }
 If cube is next to (after containers closing tag) the container:
 
