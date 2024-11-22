@@ -877,3 +877,11 @@ footer h3{
 .fa-globe,.fa-brands{
     padding-right: 0.5vw;
 }
+
+.links-tab a:hover:after{
+    width: 100%;
+}
+
+.fa-globe-hound,.fa-brands{
+    padding-right: 0.5vw;
+}
